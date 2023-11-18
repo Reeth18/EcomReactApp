@@ -1,0 +1,35 @@
+
+.FilteredList {
+    background-color: rgb(195, 241, 241);
+    position: relative; 
+    left: 65%;
+    width: 50%;
+    height: 100%;
+    border-radius: 3%;
+    box-shadow: 0px 0px 10px 4px rgb(128, 125, 125);
+  }
+  .FilteredList h2 {
+    position: absolute;
+    top: 2%;
+    color: rgb(114, 39, 29);
+    padding: 10%;
+  }
+  .FilteredList button {
+    position: absolute;
+    top: 60%;
+    padding: 3%;
+    margin-left: 10%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(153, 60, 7);
+    border-radius: 5%;
+  }
+  .FilteredList ul {
+    position: absolute;
+    top: 40%;
+    /* display: inline-block; */
+  }
+  
+  .FilteredList ul li {
+    color: rgb(172, 30, 30);
+  }
+  
